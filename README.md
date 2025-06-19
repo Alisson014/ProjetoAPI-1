@@ -6,9 +6,9 @@
   <strong>Sumário</strong>
   <ol>
     <li><a href="#init">Iniciar projeto</a></li>
-    <li>End Points</li>
-    <li>Exemplos</li>
-    <li>Requisitos</li>
+    <li><a href="#endpoints">End Points</a></li>
+    <li><a href="#exemplos">Exemplos</a></li>
+    <li><a href="#requisitos">Requisitos</a></li>
   </ol>
 </nav>
 <br/>
@@ -21,7 +21,7 @@
   <li><i>Rodar projeto: </i><code>node ./app.js</code></li>
 </ul>
 <br/>
-<h2>EndPoints</h2>
+<h2 id="endpoints">EndPoints</h2>
 
 <p>Aplicação, como já anunciado, destaca-se pela apresentação de um CRUD. Dessa forma, ele conta com os seguintes endpoints: </p>
 <ul>
@@ -33,7 +33,7 @@
 </ul>
 <br/>
 
-<h2>Exemplos</h2>
+<h2 id="exemplos">Exemplos</h2>
 
 <table>
   <thead>
@@ -142,7 +142,7 @@
 </table>
 <br/>
 
-<h2>Requisitos</h2>
+<h2 id="requisitos">Requisitos</h2>
 
 <ul>
   <li>Node instalado</li>
