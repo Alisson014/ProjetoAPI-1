@@ -1,9 +1,9 @@
-# Atividade-N2-Web3
+# Atividade-N2-Web3✴️
 <h2>This is a short file Readme for an exercise.</h2>
 <p>Como proposto na atividade, aqui consta a documentação de uma api fictícia. Um exercício desenvolvido como forma de treinar os conhecimentos ao longo da disciplina. A api consiste em um CRUD para um sistema de gerenciamento de clientes cujos atributos são: <mark><strong>nome</strong></mark>, <mark><strong>cpf</strong></mark>, <mark><strong>email</strong></mark>, <mark><strong>cidade</strong></mark> e <mark><strong>telefone</strong></mark> </p>
 
 <nav>
-  <strong>Sumário</strong>
+  <strong>Sumário </strong>
   <ol>
     <li><a href="#init">Iniciar projeto</a></li>
     <li><a href="#endpoints">End Points</a></li>
@@ -145,7 +145,7 @@
 <h2 id="requisitos">Requisitos</h2>
 
 <ul>
-  <li>Node instalado</li>
-  <li>Dependências do projeto instaladas</li>
-  <li>Ambiente capaz de consumir a api</li>
+  <li><i>Node instalado</i></li>
+  <li><i>Dependências do projeto instaladas</i></li>
+  <li><i>Ambiente capaz de consumir a api</i></li>
 </ul>
