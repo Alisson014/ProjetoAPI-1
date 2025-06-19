@@ -3,16 +3,17 @@
 <p>Como proposto na atividade, aqui consta a documentação de uma api fictícia. Um exercício desenvolvido como forma de treinar os conhecimentos ao longo da disciplina. A api consiste em um CRUD para um sistema de gerenciamento de clientes cujos atributos são: <mark><strong>nome</strong></mark>, <mark><strong>cpf</strong></mark>, <mark><strong>email</strong></mark>, <mark><strong>cidade</strong></mark> e <mark><strong>telefone</strong></mark> </p>
 
 <nav>
-  <ul>
-    <li>Iniciar projeto</li>
+  <strong>Sumário</strong>
+  <ol>
+    <li><a href="#init"></a></li>
     <li>End Points</li>
     <li>Exemplos</li>
     <li>Requisitos</li>
-  </ul>
+  </ol>
 </nav>
 <br/>
-<h2>Iniciar Projeto</h2>
-<hr/>
+<h2 id="init">Iniciar Projeto</h2>
+
 <p>Este projeto foi desenvolvido em Node.js, sobretudo utilizando Express. Assim, para sua execução é necessário garantir que sua máquina já possua o node instalado e configurado, bem como todas as dependências presentes na aplicação</p>
 <h3>Passos para execução</h3>
 <ul>
@@ -21,7 +22,7 @@
 </ul>
 <br/>
 <h2>EndPoints</h2>
-<hr/>
+
 <p>Aplicação, como já anunciado, destaca-se pela apresentação de um CRUD. Dessa forma, ele conta com os seguintes endpoints: </p>
 <ul>
   <li>Create: <code> https://atividade.n2.com/client/create </code>, method: <mark>POST</mark> </li>
@@ -33,7 +34,7 @@
 <br/>
 
 <h2>Exemplos</h2>
-<hr/>
+
 <table>
   <thead>
     <th>Endpoint</th>
@@ -142,7 +143,7 @@
 <br/>
 
 <h2>Requisitos</h2>
-<hr/>
+
 <ul>
   <li>Node instalado</li>
   <li>Dependências do projeto instaladas</li>
